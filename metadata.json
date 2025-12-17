@@ -1,0 +1,5 @@
+{
+  "name": "Editive - Academic AI Editor",
+  "description": "A dual-mode academic writing assistant. Use the integrated AI for instant enhancements, or access curated prompts for manual use in Google AI Studio.",
+  "requestFramePermissions": []
+}
